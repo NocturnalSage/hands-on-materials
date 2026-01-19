@@ -1,5 +1,6 @@
 # How to run the SPICE tutorial
 
+Created by Eric Buchlin. 
 
 ## You can run this notebook in Google Colab:
 You can also run this notebook with Google Colab:
