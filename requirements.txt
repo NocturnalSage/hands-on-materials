@@ -7,6 +7,6 @@ astrospice
 sunpy-soar
 stixpy
 sospice==0.0.8
-sunraster==0.7.0
+sunraster
 solo-epd-loader
 cmcrameri
