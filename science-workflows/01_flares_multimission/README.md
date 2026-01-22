@@ -1,14 +1,15 @@
 # Flare hands-on tutorial (workflow)
 
-This notebook is part of the **ISRO–ESA Workshop hands-on sessions** and is designed to be **informal and interactive**. Participants will work directly with real observations, with team leads available for support and discussion.
+This repository is part of the **ISRO–ESA Workshop hands-on sessions** and is designed to be **informal and interactive**. Participants will work directly with real observations, with team leads available for support and discussion.
 
 People can engage at different depths depending on their background and interest:
 - some participants may explore a dataset in more detail and try extended analysis  
 - others may focus on getting started and understanding the core tools and workflows  
 
-
---
-
+## Open in google colab if you'd prefer:
+You can open any notebook in this repository directly in **Google Colab**:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+http://colab.research.google.com/github/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/blob/main/science-workflows/01_flares_multimission/flare_workflow.ipynb
 
 ## Event studied
 
